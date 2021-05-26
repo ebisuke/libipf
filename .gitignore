@@ -45,3 +45,7 @@ windows/winsample/unipf/Release
 windows/winsample/ipfpack/ipfpack.vcproj.*
 windows/winsample/ipfpack/Debug
 windows/winsample/ipfpack/Release
+*.tlog
+*.log
+*.user
+windows/.vs/*
